@@ -1,4 +1,4 @@
-package manif.be;
+package manif.be.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
