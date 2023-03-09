@@ -1,4 +1,4 @@
-package manif.be.exception;
+package parked;
 
 
 import org.springframework.http.HttpStatus;
